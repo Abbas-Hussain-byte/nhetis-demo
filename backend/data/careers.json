@@ -1,0 +1,234 @@
+[
+  {
+    "course": "B.Sc. Computer Science",
+    "career": "Data Analyst",
+    "category": "IT & Analytics",
+    "skills": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "DataViz"
+    ],
+    "tags": [
+      "ai",
+      "data",
+      "analytics"
+    ],
+    "aptitude": [
+      "logical reasoning",
+      "numerical",
+      "pattern recognition"
+    ],
+    "levels": [
+      "12",
+      "undergrad"
+    ],
+    "growth_index": 8.5,
+    "salary_range_in_lpa": [
+      4,
+      10
+    ]
+  },
+  {
+    "course": "B.Sc. Statistics",
+    "career": "Business Analyst",
+    "category": "IT & Analytics",
+    "skills": [
+      "Excel",
+      "PowerBI",
+      "SQL",
+      "Statistics"
+    ],
+    "tags": [
+      "analytics",
+      "business",
+      "consulting"
+    ],
+    "aptitude": [
+      "numerical",
+      "communication",
+      "problem solving"
+    ],
+    "levels": [
+      "12",
+      "undergrad"
+    ],
+    "growth_index": 8.2,
+    "salary_range_in_lpa": [
+      4,
+      9
+    ]
+  },
+  {
+    "course": "B.Com (General)",
+    "career": "Financial Analyst",
+    "category": "Finance",
+    "skills": [
+      "Excel",
+      "Financial Modelling",
+      "Accounting",
+      "SQL"
+    ],
+    "tags": [
+      "finance",
+      "business"
+    ],
+    "aptitude": [
+      "numerical",
+      "attention to detail"
+    ],
+    "levels": [
+      "12",
+      "undergrad"
+    ],
+    "growth_index": 7.9,
+    "salary_range_in_lpa": [
+      4,
+      8
+    ]
+  },
+  {
+    "course": "B.A. Psychology",
+    "career": "HR Specialist",
+    "category": "Management",
+    "skills": [
+      "Communication",
+      "Interviewing",
+      "Excel",
+      "PeopleOps"
+    ],
+    "tags": [
+      "management",
+      "people"
+    ],
+    "aptitude": [
+      "communication",
+      "empathy",
+      "negotiation"
+    ],
+    "levels": [
+      "12",
+      "undergrad"
+    ],
+    "growth_index": 7.4,
+    "salary_range_in_lpa": [
+      3,
+      7
+    ]
+  },
+  {
+    "course": "B.Sc. Agriculture",
+    "career": "AgriTech Associate",
+    "category": "Agri & Rural Dev",
+    "skills": [
+      "IoT Basics",
+      "GIS",
+      "Field Ops",
+      "Data Entry"
+    ],
+    "tags": [
+      "agriculture",
+      "rural",
+      "sustainability"
+    ],
+    "aptitude": [
+      "observation",
+      "field work",
+      "numerical"
+    ],
+    "levels": [
+      "12",
+      "undergrad"
+    ],
+    "growth_index": 7.1,
+    "salary_range_in_lpa": [
+      3,
+      6
+    ]
+  },
+  {
+    "course": "B.A. Economics",
+    "career": "Policy Research Assistant",
+    "category": "Public Policy",
+    "skills": [
+      "Stata/R",
+      "Report Writing",
+      "Survey Design"
+    ],
+    "tags": [
+      "policy",
+      "research",
+      "economics"
+    ],
+    "aptitude": [
+      "analysis",
+      "writing",
+      "numerical"
+    ],
+    "levels": [
+      "12",
+      "undergrad"
+    ],
+    "growth_index": 7.3,
+    "salary_range_in_lpa": [
+      3,
+      7
+    ]
+  },
+  {
+    "course": "BCA",
+    "career": "Junior Software Developer",
+    "category": "IT & Analytics",
+    "skills": [
+      "JavaScript",
+      "Git",
+      "APIs"
+    ],
+    "tags": [
+      "software",
+      "web",
+      "ai"
+    ],
+    "aptitude": [
+      "logical reasoning",
+      "problem solving"
+    ],
+    "levels": [
+      "12",
+      "undergrad"
+    ],
+    "growth_index": 8.0,
+    "salary_range_in_lpa": [
+      4,
+      9
+    ]
+  },
+  {
+    "course": "B.Sc. Life Sciences",
+    "career": "Clinical Data Coordinator",
+    "category": "Healthcare",
+    "skills": [
+      "Excel",
+      "GCP Basics",
+      "Data Quality"
+    ],
+    "tags": [
+      "healthcare",
+      "biology",
+      "data"
+    ],
+    "aptitude": [
+      "attention to detail",
+      "documentation"
+    ],
+    "levels": [
+      "12",
+      "undergrad"
+    ],
+    "growth_index": 6.8,
+    "salary_range_in_lpa": [
+      3,
+      6
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "college_name": "Govt. City College",
+    "program": "B.Sc. Computer Science",
+    "eligibility": "12th with PCM/PCMB",
+    "facilities": [
+      "Library",
+      "Labs",
+      "Scholarships"
+    ]
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal",
+    "college_name": "Govt. Degree College",
+    "program": "B.Com (General)",
+    "eligibility": "12th Commerce/Any Stream",
+    "facilities": [
+      "Library",
+      "Commerce Lab",
+      "Scholarships"
+    ]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vijayawada",
+    "college_name": "SRR & CVR Govt. Degree College",
+    "program": "B.Sc. Statistics",
+    "eligibility": "12th with Math",
+    "facilities": [
+      "Library",
+      "Labs",
+      "Placements"
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bengaluru",
+    "college_name": "Govt. Science College",
+    "program": "BCA",
+    "eligibility": "12th with Math recommended",
+    "facilities": [
+      "Computer Lab",
+      "Library",
+      "Clubs"
+    ]
+  }
+]
